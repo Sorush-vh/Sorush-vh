@@ -1,4 +1,4 @@
-# Ali “Sorush” Vakilzadeh Hatefi
+# Seyed Ali “Sorush” Vakilzadeh Hatefi
 
 4th-year Computer Engineering student @ **Sharif University of Technology** (GPA **3.73/4.0**, 18.15/20)  
 **Expected graduation:** Feb 2026 • **Location:** Tehran, Iran • **Open to:** Junior dev / AI / Data Eng internships
