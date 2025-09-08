@@ -12,12 +12,11 @@
   [Repo](https://github.com/Sorush-vh/<repo-crusader3>) · (add GIF/screenshots)
 - ♟️ **Connect4 Minimax AI** — Alpha–beta pruning; **>70%** win rate vs baseline.  
   [Repo](https://github.com/Sorush-vh/<repo-connect4>)
-- 📷 **Image Processing Benchmarks** — Python vs x86 assembly; **3–6×** speedup with SIMD.  
-  [Repo](https://github.com/Sorush-vh/<repo-image-bench>)
 - 🔧 **Verilog Designs** — CORDIC, simple CPU, TCAM; testbenches passing on Quartus.  
   [Repo](https://github.com/Sorush-vh/<repo-verilog>)
 - 📚 **DSA** — Curated algorithms in C++/Java with brief notes/tests.  
   [Repo](https://github.com/Sorush-vh/<repo-dsa>)
+
 
 ---
 
@@ -41,4 +40,25 @@ Data Structures & Algorithms (18.4/20), Linear Algebra (19.1/20), Design of Algo
 
 ### 👨‍🏫 Experience (selected)
 - **Teaching Assistant**, Sharif University — Probability & Statistics (Fall 2024); (Assigned) Computer Simulation (Fall 2025)  
-  Led weekly sessions, authored project assignments, graded and revis
+  Led weekly sessions, authored project assignments, graded and revised solutions.
+- **Teacher & Mentor**, Salam School Olympiad (Fall 2022 – Spring 2024)  
+  Weekly individual and group problem-solving classes.
+- **Teacher & Mentor**, Kanoon Farhangi Amoozesh Ghalamchi (Summer 2022 – Spring 2023)  
+  Advised ~20 students weekly; **70%** advanced to next year; diagnostics + individualized plans.
+
+---
+
+### 🏅 Honors & Awards
+- **National Physics Olympiad** — *Silver Medal* (2021)  
+- **Iran National University Entrance Exam** — *Rank 87 nationwide* (Region 1: 62) (2022)  
+- **Full merit scholarships** — Grades 10–12 and Undergraduate program
+
+---
+
+### 📬 Contact
+**Email:** [sorush.v.1382@gmail.com](mailto:sorush.v.1382@gmail.com)  
+**LinkedIn:** [/in/sorush-hatefi-1a162a336](https://www.linkedin.com/in/sorush-hatefi-1a162a336/)  
+**Telegram:** [@Nmss_Punisher](https://t.me/Nmss_Punisher)  
+**GitHub:** [@Sorush-vh](https://github.com/Sorush-vh)  
+<!-- Optional: add your resume once hosted -->
+<!-- **Resume (PDF):** [Download](https://github.com/Sorush-vh/Sorush-vh/raw/main/resume.pdf) -->
