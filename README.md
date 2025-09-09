@@ -5,7 +5,7 @@
 
 **Tech:** Java · C/C++ · Python · JavaScript · SQL (PostgreSQL) · React · Angular · .NET · REST  
 **Data/AI:** NumPy · Pandas · scikit-learn · (basic) PyTorch · R  
-**Tools:** Linux · Git · Docker · (background: Verilog/Quartus)
+**Tools:** Linux · Git · (background: Verilog/Quartus)
 
 ---
 
