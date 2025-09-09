@@ -45,7 +45,7 @@ Selected: Advanced Programming (20/20), Probability & Statistics (20/20), AI (19
 ---
 
 ## 📄 Resume
-- **PDF (2 pages):** [Download]((https://github.com/Sorush-vh/Sorush-vh/blob/main/Job_resume.pdf))
+- **PDF (2 pages):** [Download](https://github.com/Sorush-vh/Sorush-vh/blob/main/Job_resume.pdf)
 - Last updated: Sep 2025
 
 ---
